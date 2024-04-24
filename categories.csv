@@ -1,0 +1,35 @@
+Category,Name,Tree
+0,nutrition,medical and health sciences/health sciences/nutrition
+1,infectious diseases,medical and health sciences/health sciences/infectious diseases
+2,public health,medical and health sciences/health sciences/public health
+3,pathology,medical and health sciences/basic medicine/pathology
+4,neurology,medical and health sciences/basic medicine/neurology
+5,immunology,medical and health sciences/basic medicine/immunology
+6,pharmacology and pharmacy,medical and health sciences/basic medicine/pharmacology and pharmacy
+7,physiology,medical and health sciences/basic medicine/physiology
+8,cells technologies,medical and health sciences/medical biotechnology/cells technologies
+9,genetic engineering,medical and health sciences/medical biotechnology/genetic engineering
+10,endocrinology,medical and health sciences/clinical medicine/endocrinology
+11,cardiology,medical and health sciences/clinical medicine/cardiology
+12,surgery,medical and health sciences/clinical medicine/surgery
+13,oncology,medical and health sciences/clinical medicine/oncology
+14,psychiatry,medical and health sciences/clinical medicine/psychiatry
+15,optics,natural sciences/physical sciences/optics
+16,artificial intelligence,natural sciences/computer and information sciences/artificial intelligence
+17,data science,natural sciences/computer and information sciences/data science
+18,software,natural sciences/computer and information sciences/software
+19,cell biology,natural sciences/biological sciences/cell biology
+20,biochemistry,natural sciences/biological sciences/biochemistry
+21,neurobiology,natural sciences/biological sciences/neurobiology
+22,genetics,natural sciences/biological sciences/genetics
+23,microbiology,natural sciences/biological sciences/microbiology
+24,zoology,natural sciences/biological sciences/zoology
+25,inorganic chemistry,natural sciences/chemical sciences/inorganic chemistry
+26,nano-materials,engineering and technology/nanotechnology/nano-materials
+27,electronic engineering,"engineering and technology/electrical engineering, electronic engineering, information engineering/electronic engineering"
+28,economics,social sciences/economics and business/economics
+29,business and management,social sciences/economics and business/business and management
+30,demography,social sciences/sociology/demography
+31,implants,medical and health sciences/medical biotechnology/implants
+32,agriculture,"agricultural sciences/agriculture, forestry, and fisheries/agriculture"
+33,personalized medicine,medical and health sciences/health sciences/personalized medicine
